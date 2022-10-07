@@ -1,0 +1,15 @@
+C:\Users\Гг\source\repos\проба\проба\bin\Debug\net6.0\проба.exe
+C:\Users\Гг\source\repos\проба\проба\bin\Debug\net6.0\проба.deps.json
+C:\Users\Гг\source\repos\проба\проба\bin\Debug\net6.0\проба.runtimeconfig.json
+C:\Users\Гг\source\repos\проба\проба\bin\Debug\net6.0\проба.dll
+C:\Users\Гг\source\repos\проба\проба\bin\Debug\net6.0\проба.pdb
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.csproj.AssemblyReference.cache
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.AssemblyInfoInputs.cache
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.AssemblyInfo.cs
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.csproj.CoreCompileInputs.cache
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.dll
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\refint\проба.dll
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.pdb
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\проба.genruntimeconfig.cache
+C:\Users\Гг\source\repos\проба\проба\obj\Debug\net6.0\ref\проба.dll
